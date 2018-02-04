@@ -1,0 +1,163 @@
+/*We should insert it to every CSS file*/
+*{
+    margin:0; padding:0;
+    font-size:inherit;
+    color:inherit;
+    -webkit-font-smoothing: antialiased;
+}
+button::-moz-focus-inner {padding:0;border:0;}
+a {outline:none;
+    text-decoration:none;
+    background-color:transparent;
+    font-size:11px;
+    color:#2d2a2b ;
+}
+img {border:none;}
+html {height: 100%;}
+
+body {
+    height: auto !important;
+    min-height: 100%;
+    position: relative;
+    background: #ffffff;
+    font-size: 13px;
+    color: #575757;
+}
+
+
+/*Style for index5.html*/
+.title-new {
+    color: red;
+    font: bold 15px/30px sans-serif;}
+.monk {
+    background-image: url("https://nashzeleniymir.ru/wp-content/uploads/2016/08/%D0%9C%D0%BE%D1%80%D0%B4%D0%B0-%D0%BE%D0%B1%D0%B5%D0%B7%D1%8C%D1%8F%D0%BD%D1%8B.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    background-position: center;
+ }
+
+/*Style for index6.html*/
+.title {
+    background-color: gainsboro;
+}
+.contact {
+    width: 320px; height: 400px;
+    background-color: gray;
+    font-size: 10px;
+    font: caption;
+    border: solid 2px gray; margin: auto
+}
+.label {
+    color: black;
+    padding: 10px;
+    font-size: medium
+    }
+
+.name {
+    width: 100%;
+    margin: 20px 0 5px 0;
+    padding: 8px 0 8px 0;
+    box-sizing: border-box;
+}
+.email {
+    width: 100%;
+    margin: 0 0 5px 0;
+    padding: 8px 0 8px 0;
+    box-sizing: border-box
+}
+.Telephone {
+    width: 100%;
+    margin: 0 0 5px 0;
+    padding: 8px 0 8px 0;
+    box-sizing: border-box
+}
+.Message {
+    width: 100%;
+    margin: 0 0 5px 0;
+    box-sizing: border-box
+}
+.Send-button {
+    width: auto;
+    float: right;
+    background-color: black;
+    color: white;
+    padding: 7px 12px 3px 12px
+}
+.Code-button {
+    width: auto;
+    float: left;
+    background-color: white;
+    color: gray;
+    padding: 7px 37px 3px 12px
+}
+
+/*Style for index7.html*/
+
+.picture7 {
+    background-image: url("../Images/SmartObject.jpg");
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: center;
+    background-color: #ffffff;
+    padding: 50px 0 300px 0;
+    }
+.sect7 {
+    background-color: #e1e1e1;
+    padding: 100px 0 70px 0;
+    color: red;
+    font: bold 15px/30px sans-serif;
+}
+.title7 {
+    background-color: gainsboro;
+}
+.contact7 {
+    width: 320px; height: 400px;
+    background-color: gray;
+    font-size: 10px;
+    font: caption;
+    border: solid 2px gray; margin: auto
+}
+.label7 {
+    color: black;
+    padding: 10px;
+    font-size: medium
+}
+
+.name7 {
+    width: 100%;
+    margin: 20px 0 5px 0;
+    padding: 8px 0 8px 0;
+    box-sizing: border-box;
+}
+.email7 {
+    width: 100%;
+    margin: 0 0 5px 0;
+    padding: 8px 0 8px 0;
+    box-sizing: border-box
+}
+.Telephone7 {
+    width: 100%;
+    margin: 0 0 5px 0;
+    padding: 8px 0 8px 0;
+    box-sizing: border-box
+}
+.Message7 {
+    width: 100%;
+    margin: 0 0 5px 0;
+    box-sizing: border-box
+}
+.Send-button7 {
+    width: auto;
+    float: right;
+    background-color: black;
+    color: white;
+    padding: 7px 12px 3px 12px
+}
+.Code-button7 {
+    width: auto;
+    float: left;
+    background-color: white;
+    color: gray;
+    padding: 7px 37px 3px 12px
+}
